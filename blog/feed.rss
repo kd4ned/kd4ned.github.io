@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>The Mind of Jeremy Gault</title><link>http://kd4ned.github.io/blog/index.html</link>
+<description>Thoughts, rants, raves, and whatever...</description><language>en</language>
+<lastBuildDate>Sat, 30 Sep 2017 22:17:07 -0400</lastBuildDate>
+<pubDate>Sat, 30 Sep 2017 22:17:07 -0400</pubDate>
+<atom:link href="http://kd4ned.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+First post!
+</title><description><![CDATA[
+
+<p>Here is the first post on the GitHub blog.</p>
+
+<p>Enjoy!</p>
+
+<p>Tags: <a href='tag_first-post.html'>first-post</a>, <a href='tag_github.html'>github</a></p>
+<!-- text end -->
+]]></description><link>http://kd4ned.github.io/blog/first-post.html</link>
+<guid>http://kd4ned.github.io/blog/./first-post.html</guid>
+<dc:creator>The Ubik</dc:creator>
+<pubDate>Sat, 30 Sep 2017 22:17:05 -0400</pubDate></item>
+</channel></rss>
